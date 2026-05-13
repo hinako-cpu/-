@@ -1,0 +1,6 @@
+{
+  "name": "たんぽぽ組 保育料計算機",
+  "description": "国の補助金と練馬区の補助金を考慮した、幼稚園預かり保育の自己負担額を計算するアプリです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
